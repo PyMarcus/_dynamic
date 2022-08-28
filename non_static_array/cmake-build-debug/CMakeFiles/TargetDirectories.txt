@@ -1,0 +1,3 @@
+C:/Users/Marcu/CLionProjects/non_static_array/cmake-build-debug/CMakeFiles/non_static_array.dir
+C:/Users/Marcu/CLionProjects/non_static_array/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Marcu/CLionProjects/non_static_array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
